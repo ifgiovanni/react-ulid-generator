@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-ulid-generator/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/react-ulid-generator/static/js/main.e4d472cd.chunk.js",
+    "main.js.map": "/react-ulid-generator/static/js/main.e4d472cd.chunk.js.map",
+    "runtime-main.js": "/react-ulid-generator/static/js/runtime-main.03595f52.js",
+    "runtime-main.js.map": "/react-ulid-generator/static/js/runtime-main.03595f52.js.map",
+    "static/js/2.c10bae18.chunk.js": "/react-ulid-generator/static/js/2.c10bae18.chunk.js",
+    "static/js/2.c10bae18.chunk.js.map": "/react-ulid-generator/static/js/2.c10bae18.chunk.js.map",
+    "static/js/3.be517cc8.chunk.js": "/react-ulid-generator/static/js/3.be517cc8.chunk.js",
+    "static/js/3.be517cc8.chunk.js.map": "/react-ulid-generator/static/js/3.be517cc8.chunk.js.map",
+    "index.html": "/react-ulid-generator/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/react-ulid-generator/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.c10bae18.chunk.js.LICENSE.txt": "/react-ulid-generator/static/js/2.c10bae18.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-ulid-generator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03595f52.js",
+    "static/js/2.c10bae18.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.e4d472cd.chunk.js"
+  ]
+}
